@@ -1,5 +1,7 @@
-# Introduction-to-Data-Science
 
+#																	            #
+# Course Material (Python and Jupyter Files) to the official course "Introduction-to-Data-Science" @ Iu International University of Applied Science #
+#																		    # 	
 ******************************************************************************************************
 										    	       	
  	Copyright : IU Internationale Hochschule GmbH, Juri-Gagarin-Ring 152, D-99084 Erfurt	       		 
