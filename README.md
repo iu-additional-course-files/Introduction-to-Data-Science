@@ -79,5 +79,5 @@
 
 The same for Jupyter files, which are labeled with notebook_example_a_x.ipynb (where a = 1...5, and x variable).
 
-Password for ZIP-File associated to the Lecture series "Introduction to Data Science" can be received 
+Password for zip-files associated to the lecture series "Introduction to Data Science" can be received 
 in the IU course at http://www.iu.de.
