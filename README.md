@@ -1,7 +1,7 @@
 
 ******************************************************************************************************
 
-	Supplementary Python and Jupyter Files to Introduction-to-Data-Science 
+	Supplementary Python and Jupyter Files to the IU-Course Introduction-to-Data-Science 
 	
 ******************************************************************************************************
 										    	       	
