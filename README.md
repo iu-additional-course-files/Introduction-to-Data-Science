@@ -58,7 +58,7 @@
   
 	 example_4_1.py : Berechnung von Gewinnen aus der Monty Hall Strategie	     
 	 example_4_2.py : Berechnung von Gauss-, Binomial- und Poissonverteilungen      			        
-         example_4_3.py : Vergleich von Anomalien 				     
+	 example_4_3.py : Vergleich von Anomalien 				     
 	 example_4_4.py : Berechnung der Kendall, Pearson und Spearman Korrelationen    
 												     
 ********************************************************************************************************
