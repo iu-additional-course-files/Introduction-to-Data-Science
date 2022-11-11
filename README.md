@@ -57,25 +57,23 @@
 
 ********************************************************************************************************
   
-	 example_4_1.py : PYTHON ROUTINE zur Berechnung von Gewinnen aus der Monty Hall Strategie	     
-	 example_4_2.py : PYTHON ROUTINE zur Berechnung von Gauss-, Binomial- und Poissonverteilungen      			        
-         example_4_3.py : PYTHON ROUTINE zum Vergleich von Anomalien 				     
-	 example_4_4.py : PYTHON ROUTINE zur Berechnung der Kendall, Pearson und Spearman Korrelationen    
+	 example_4_1.py : Berechnung von Gewinnen aus der Monty Hall Strategie	     
+	 example_4_2.py : Berechnung von Gauss-, Binomial- und Poissonverteilungen      			        
+         example_4_3.py : Vergleich von Anomalien 				     
+	 example_4_4.py : Berechnung der Kendall, Pearson und Spearman Korrelationen    
 												     
 ********************************************************************************************************
 
 ********************************************************************************************************
 
-	  example_5_1.py : PYTHON ROUTINE zur Analyse und Klassifizerung von Strukturen eines Datensatzes 
-                     aus zwei Komponenten	 
-	  example_5_2.py : PYTHON ROUTINE zum Vergleich von LDA und PCA-2D Projektion eines Iris Datensatzes			 
-  	  example_5_3.py : PYTHON ROUTINE zur Rekonstruktion von Strukturen eines Datensatzes aus drei Signalen			 
-  	  example_5_4.py : PYTHON ROUTINE zur kPCA Analyse und Klassifizerung von Strukturen eines Datensatzes 
-                     aus 2 Komponenten 
-  	  example_5_5.py : PYTHON ROUTINE zur Modellierung eines Datensates mit der Dictionary Learning Methode			 
-  	  example_5_6.py : PYTHON ROUTINE zur Analyse eines Datensates mit der Faktor Analyse					 
-  	  example_5_7.py : PYTHON ROUTINE zur Modellierung eines Datensates mit der Dictionary Learning Methode			 
-  	  example_5_8.py : PYTHON ROUTINE zur Analyse von Komponenten eines Datensatzes mittels LDA-Analyse 			 
+	  example_5_1.py : Analyse und Klassifizerung von Strukturen eines Datensatzes aus zwei Komponenten	 
+	  example_5_2.py : Vergleich von LDA und PCA-2D Projektion eines Iris Datensatzes			 
+  	  example_5_3.py : Rekonstruktion von Strukturen eines Datensatzes aus drei Signalen			 
+  	  example_5_4.py : kPCA Analyse und Klassifizerung von Strukturen eines Datensatzes aus 2 Komponenten 
+  	  example_5_5.py : Modellierung eines Datensates mit der Dictionary Learning Methode			 
+  	  example_5_6.py : Analyse eines Datensates mit der Faktor Analyse					 
+  	  example_5_7.py : Modellierung eines Datensates mit der Dictionary Learning Methode			 
+  	  example_5_8.py : Analyse von Komponenten eines Datensatzes mittels LDA-Analyse 			 
 
 *********************************************************************************************************
 
