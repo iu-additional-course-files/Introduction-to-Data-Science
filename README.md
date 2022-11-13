@@ -1,9 +1,9 @@
 
-******************************************************************************************************
+*******************************************************************************************************
 
-	Supplementary Python and Jupyter Files to the IU-Course Introduction-to-Data-Science 
+ Supplementary Python and Jupyter Files to the IU-Course on "Introduction to Data Science" (2022/2023) 
 	
-******************************************************************************************************
+*******************************************************************************************************
 										    	       	
  	Copyright : IU Internationale Hochschule GmbH, Juri-Gagarin-Ring 152, D-99084 Erfurt	       		 
 										    	       	
