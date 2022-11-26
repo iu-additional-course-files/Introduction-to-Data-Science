@@ -68,7 +68,7 @@
 	  example_5_1.py : Analyse und Klassifizerung von Strukturen eines Datensatzes aus zwei Komponenten	 
 	  example_5_2.py : Vergleich von LDA und PCA-2D Projektion eines Iris Datensatzes			 
   	  example_5_3.py : Rekonstruktion von Strukturen eines Datensatzes aus drei Signalen			 
-  	  example_5_4.py : kPCA Analyse und Klassifizerung von Strukturen eines Datensatzes aus 2 Komponenten 
+  	  example_5_4.py : kPCA Analyse und Klassifizierung von Strukturen eines Datensatzes aus 2 Komponenten 
   	  example_5_5.py : Modellierung eines Datensates mit der Dictionary Learning Methode			 
   	  example_5_6.py : Analyse eines Datensates mit der Faktor Analyse					 
   	  example_5_7.py : Modellierung eines Datensates mit der Dictionary Learning Methode			 
